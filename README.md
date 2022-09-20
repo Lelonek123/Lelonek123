@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lelonek123
 - 👀 I’m interested in programming and video games
-- 🌱 I’m currently learning Rust programming language
+- 🌱 I’m currently learning Rust programming language and React with firebase
 - 📫 How to reach me: lelonek1234@gmail.com
 
 <!---
